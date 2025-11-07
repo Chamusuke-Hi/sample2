@@ -79,4 +79,14 @@ Duplicated footnote reference[^second].
 [^first]: Footnote **can have markup**
  and multiple paragraphs.
 [^second]: Footnote text.
-「Commit Changes」で編集完了しましょう。
+## Images
+![Minion](https://octodex.GitHub.com/images/minion.png)
+![Stormtroopocat](https://octodex.GitHub.com/images/stormtroopocat.jpg 
+"The Stormtroopocat")
+
+## Youtube Video
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/WYNC8JzV5j8" title="YouTube video 
+player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
