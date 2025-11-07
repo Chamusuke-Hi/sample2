@@ -14,89 +14,17 @@
  padding: 10px;
  }
 </style>
+### 内容
+この本を読んで感じたのは、国の統治方法は国の地理的性質に左右するということだ。\
+たとえば、昨今民主主義は薄れ、特にアフリカでは独裁政権が目立ってきている。
 
-# Test
-## Test
-## Youtube Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0wGBpgIrd9M?si=4_pgUIxTyTXvjMyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-## Emphasis
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-~~Strikethrough~~
-## Blockquotes
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-## Lists
-Unordered
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
- - Marker character change forces new list start:
- * Ac tristique libero volutpat at
- + Facilisis in pretium nisl aliquet
- - Nulla volutpat aliquam velit
-+ Very easy!
-Ordered
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-Start numbering with offset:
-57. foo
-1. bar
-## Code
-Inline `code`
-Indented code
- // Some comments
- line 1 of code
- line 2 of code
- line 2 of code
- line 3 of code
-Block code "fences"
-```
-Sample text here...
-```
-Syntax highlighting
-``` js
-var foo = function (bar) {
- return bar++;
-};
-console.log(foo(5));
-```
-## Tables
-| Option | Description |
-| ------ | ----------- |
-| data | path to data files to supply the data that will be passed into 
-templates. |
-| engine | engine to be used for processing templates. Handlebars is the 
-default. |
-| ext | extension to be used for dest files. |
-Right aligned columns
-| Option | Description |
-| ------:| -----------:|
-| data | path to data files to supply the data that will be passed into 
-templates. |
-| engine | engine to be used for processing templates. Handlebars is the 
-default. |
-| ext | extension to be used for dest files. |
-## Links
-[link text](http://dev.nodeca.com)
-[link with title](http://nodeca.GitHub.io/pica/demo/ "title text!")
-Autoconverted link https://GitHub.com/nodeca/pica (enable linkify to see)
-### [Footnotes](https://GitHub.com/markdown-it/markdown-it-footnote)
-Footnote 1 link[^first].
-Footnote 2 link[^second].
-Inline footnote^[Text of inline footnote] definition.
-Duplicated footnote reference[^second].
-[^first]: Footnote **can have markup**
- and multiple paragraphs.
-[^second]: Footnote text.
-## Images
-![Minion](https://octodex.GitHub.com/images/minion.png)
-![Stormtroopocat](https://octodex.GitHub.com/images/stormtroopocat.jpg 
-"The Stormtroopocat")
+これ大陸に位置する国では非常に多い流れである。　大陸国家はその多くが多民族国家であることがおおい、また国境も簡単に引けてしまう。\
+そのため、国に不満が募れば民族主義（ミニマムなナショナリズム）が横行し、国境を引き独立しようとする遠心力なるものが生じやすい。\
+このことから、統治者は強力な求心力なる力が必要になってくる。
+そのため、民主主義が成立しやすいのは島国、単一民族国家、大きなナショナリズムが生じている国問ことになる。
+
+### 感想
+このように国のなり方も内部の作用関係によって動的に変わりうることを知った。\
+改めて国際情勢の見方が変わりそうだと感じた
 
 
